@@ -1,0 +1,34 @@
+* {
+  font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS",
+    "sans-serif";
+  background-color: #fac9b8;
+  color: #444054;
+}
+
+.title {
+  background-color: #db8a74;
+  font-size: 4rem;
+  text-align: center;
+}
+
+.link {
+  display: block;
+  background-color: #bebbbb;
+  font-size: 2rem;
+  text-align: justify;
+  padding: 2rem;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.text{
+    font-size: 1.2rem;
+}
+
+.image {
+  max-width: 30rem;
+  display: block;
+  margin: 0 auto;
+}
